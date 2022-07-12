@@ -391,7 +391,7 @@ logo = ("""\033[1;32m
       
       HE UPPARWALE PAHLI BAAR COMMAND BNA
       RHA HU UMMEED HE AXCHE SE WORK KARE
-      AUR BOHT SI OLD IDIES MIL JAAYE😁😁😁😁
+      AUR BOHT SI OLD IDIES MIL JAAYE😁😁
 __________________×______________________
   
   Auther   :  HIMESH KASHYAP
@@ -430,11 +430,8 @@ class Main:
 
 	def old(self):
 		x = 111111111
-	
 		xx = 999999999
 		idx = "100000" 
-		idx="1000"
-		idx="10000"
 		os.system('clear');print(logo)
 		limit = int(input(" \n\033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 90,000: "))
 		try:
